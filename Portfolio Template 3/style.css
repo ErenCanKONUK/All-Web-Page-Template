@@ -1,0 +1,462 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    /* list-style: none; */
+}
+
+@font-face {
+    font-family: 'Roobert';
+    src: url('../assets/fonts/Roobert-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Rebond Grotesque';
+    src: url('../assets/fonts/Rebond Grotesque.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Rebond Grotesque';
+    src: url('../assets/fonts/Rebond Grotesque Bold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Rebond Grotesque';
+    src: url('../assets/fonts/Rebond Grotesque Bold Italic.otf') format('opentype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Rebond Grotesque';
+    src: url('../assets/fonts/Rebond Grotesque Extrabold.otf') format('opentype');
+    font-weight: bolder;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Rebond Grotesque';
+    src: url('../assets/fonts/Rebond Grotesque Medium.otf') format('opentype');
+    font-weight: medium;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Rebond Grotesque';
+    src: url('../assets/fonts/Rebond Grotesque Light.otf') format('opentype');
+    font-weight: light;
+    font-style: normal;
+}
+
+body {
+    background-color: rgb(220, 219, 214);
+}
+
+.body {
+    background-color: #ffffff;
+}
+
+.logo {
+    width: 10vh;
+    font-weight: bolder;
+}
+
+.red {
+    background-color: red;
+}
+
+
+
+.violet-bubble {
+    background-color: #6d6771;
+    box-shadow: 6px 6px 12px #c5c5c5,
+    -6px -6px 12px #ffffff;
+    border-radius: 40px;
+    text-align: center;
+}
+
+/* .nav-text {
+    text-align: center;
+} */
+
+.nav-text li a {
+    font-family: 'Rebond Grotesque';
+    font-size: 1.3rem;
+}
+
+.download-button {
+    background-color: #2b2a2c;
+    color: rgb(200, 59, 59);
+    text-decoration: none;
+    
+}
+
+.box1{
+
+    align-items: center;
+    justify-content: center;
+
+}
+
+.box2 {
+    padding: 5vh;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 5vh ;
+
+
+}
+
+.title1{
+    font-family: 'Rebond Grotesque', Rebond Grotesque;
+    font-size: 4rem;
+    font-weight: bold;
+    color: #391952;
+}
+
+.title2 {
+    font-family: 'Roobert';
+    font-size: 2rem;
+    color: white;
+    background-color: #716e74;
+    border-radius: 30px;
+    text-align: center;
+    margin-top: 5vh; 
+    padding: 1vh 0;
+    box-shadow: 6px 6px 12px #c5c5c5,
+               -6px -6px 12px #ffffff;
+
+}
+
+
+.profile-picture {
+    width: 50vh;
+    border-radius: 40px;
+    align-self: center;
+    box-shadow: 6px 6px 12px #c5c5c5,
+    -6px -6px 12px #ffffff;
+}
+
+.violet-bubble {
+    margin-top: 4vh;
+}
+
+.intro-text {
+    font-family: 'Roobert';
+    font-size: 1.5rem;
+    text-align:justify;
+    margin: 10vh 2vh;
+}
+
+.navbar-toggler {
+    color: #090909;
+    font-size: 18px;
+    border-radius: 0.5em;
+    background: #ffffff;
+    border: 1px solid #e8e8e8;
+    transition: all .3s;
+    box-shadow: 6px 6px 12px #c5c5c5,
+               -6px -6px 12px #ffffff;
+}
+  
+.navbar-toggler:hover {
+    box-shadow: inset 4px 4px 6px -1px rgba(0,0,0,0.2),
+            inset -4px -4px 6px -1px rgba(255,255,255,0.7),
+            -0.5px -0.5px 0px rgba(255,255,255,1),
+            0.5px 0.5px 0px rgba(0,0,0,0.15),
+            0px 12px 10px -10px rgba(0,0,0,0.05);
+    border: 1px solid rgba(0,0,0,0.1);
+    /* transform: translateY(0.5em); */
+}
+  
+.navbar-toggler:active {
+    box-shadow: 4px 4px 12px #c5c5c5,
+                -4px -4px 12px #ffffff;
+}
+
+.navbar-toggler:focus {
+    box-shadow: none;
+}
+
+.violet-bubble-footer {
+    background-color: #59525f;
+    opacity: 0.9;
+    border-radius: 40px;
+    text-align: center;
+    margin: 2vh 0;
+    box-shadow: 6px 6px 12px #c5c5c5,
+    -6px -6px 12px #ffffff;
+}
+
+.icon-box {
+    font-size: 2rem;
+}
+
+.card-box {
+    text-align: center;
+    justify-content: center;
+    margin: 20vh 4vh;
+}
+
+.card1 {
+    display: flex;
+    flex-direction: column;
+    gap: 3vh;
+    border-radius: 30px;
+    padding: 4vh 0;
+    box-shadow: 6px 6px 12px #d5d4d4,
+    -6px -6px 12px #e8e4e4;
+    /* border: 1px solid black; */
+    background-color: white;
+
+}
+
+.card1 > img{
+    height: auto;
+    /* width: 40vh;
+    height: 30vh;
+    border-radius: 20px;
+    align-self: center;
+    box-shadow: 6px 6px 12px #c5c5c5,
+    -6px -6px 12px #ffffff; */
+}
+
+.card-img {
+    width: 90%;
+    min-height: 20vh;
+    border-radius: 20px;
+    align-self: center;
+    box-shadow: 6px 6px 12px #c5c5c5,
+    -6px -6px 12px #ffffff;
+}
+
+.card-title {
+    font-family: 'Rebond Grotesque', Rebond Grotesque;
+    font-size: 2rem;
+    font-weight: bold;
+    color: #391952;
+}
+
+.card-description {
+    text-align: justify;
+    margin: 0 3vh;
+    color: #391952;
+}
+
+.bubble {
+    color: #090909;
+    border-radius: 30px;
+    /* background-color: #e8e8e8; */
+    box-shadow: 6px 6px 12px #d7d4d4,
+    -6px -6px 12px #ffffff;
+}
+
+.preview-button {
+    text-decoration: none;
+    background-color: #391952;
+    color: white;
+    border-radius: 30px;
+    box-shadow: 6px 6px 12px #d7d4d4,
+    -6px -6px 12px #ffffff;
+    padding: 1vh auto;
+    font-size: 1.2rem;
+}
+
+.preview-button:hover {
+    background-color: white;
+    color: #391952;
+}
+
+.github-button {
+    text-decoration: none;
+    background-color: white;
+    color: rgb(0, 0, 0);
+    border-radius: 30px;
+    box-shadow: 6px 6px 12px #d7d4d4,
+    -6px -6px 12px #ffffff;
+    padding: 1vh auto;
+    border: .01px solid black;
+    font-size: 1.2rem;
+}
+.github-icon {
+    color: black;
+}
+
+.github-button:hover {
+    color: white;
+    background-color: black;
+
+    .github-icon {
+        color: white;
+    }
+}
+
+.skills-title {
+    font-family: 'Rebond Grotesque', Rebond Grotesque;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.skills-subtitle {
+    font-family: 'Roobert';
+    font-size: 2rem;
+    font-weight: bold;
+    /* background-color: #c5c5c5;  391952 orange: f57f3f */
+    background-color: #B97FE6;
+    color: #391952;
+    border-radius: 40px;
+    margin: 1vh 5vh;
+    box-shadow: 6px 6px 12px #d7d4d4,
+    -6px -6px 12px #ffffff;
+    line-height: 5vh;
+}
+
+
+.bullet-points-box {
+    align-self: center;
+}
+
+.bullet-points-text {
+    font-family: 'Roobert';
+    font-size: 1.5rem;
+    text-align: justify;
+}
+
+.skills-icon {
+    width: 30px;
+}
+
+.profile-picture-about-me {
+    width: 30vh;
+    border-radius: 30px;
+    align-self: center;
+    box-shadow: 6px 6px 12px #c5c5c5,
+    -6px -6px 12px #ffffff;
+
+}
+
+.form-label {
+    font-family: 'Rebond Grotesque', Rebond Grotesque;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.forms-box {
+    margin: 0 0 40vh 0;
+}
+
+.input-box {
+    
+    border: 3px solid blueviolet;
+    opacity: .5;
+    border-radius: 30px;
+}
+
+@media screen and (min-width: 800px) and (max-width: 991px) {
+
+    .violet-bubble{
+        margin-top: 4vh;
+        
+        
+    }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1257px) {
+    .violet-bubble {
+        margin-top: 0;
+        width: auto;
+        border-radius: 40px;
+    }
+    .title1 {
+        text-align: center;
+        font-size: 4rem;
+    }
+
+    .title2 {
+        font-size: 3rem;
+    }
+
+    .box2 {
+        text-align: center;
+    }
+
+    .card-img {
+        width: 25vh;
+        height: auto;
+    }
+
+    .profile-picture {
+        align-self: center;
+    }
+}
+
+@media screen and (min-width: 1258px) {
+    .violet-bubble {
+        margin-top: 0;
+        
+    }
+
+}
+
+/* Solo para el boton de download */
+@media screen and (min-width: 992px) {
+    .download-button {
+        background: rgb(254, 252, 255);
+        font-family: 'Rebond Grotesque';
+        /* width: auto; */
+        font-size: 1.3rem;
+        border-radius: 40px;
+        border: 3px solid #391952;
+        box-shadow: 0.1em 0.1em;
+        color: black;
+        width: auto;
+        text-decoration: none;
+      }
+      
+    .download-button:hover {
+        transform: translate(-0.05em, -0.05em);
+        box-shadow: 0.15em 0.15em;
+        color: rgb(0, 0, 0);
+    }
+    
+    .download-button:active {
+        transform: translate(0.05em, 0.05em);
+        box-shadow: 0.05em 0.05em;
+    }
+
+    .box3 {
+        position: fixed;
+        left: 0;
+        top: 0;
+        z-index: 10;   
+    }
+
+    .box1 {
+        margin-top: 25vh;
+        text-align: center;
+    }
+
+    .box2 {
+        display: flex;
+        flex-direction: column;
+        gap: 10vh;
+    }
+
+    .profile-picture-about-me {
+        width: 40vh;
+    }
+      
+}
+
+
+
+
+
