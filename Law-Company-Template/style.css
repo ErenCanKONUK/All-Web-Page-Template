@@ -1,0 +1,157 @@
+body{
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Jost', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Questrial', sans-serif;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    max-width: 100%;
+}
+
+.header{
+    width: 100%;
+    background-image: linear-gradient(rgba(0, 4, 30, 0.685), rgba(0, 4, 1, 0.685)) ,  url("img/hero.jpg");
+    background-size: cover;
+}
+
+.navbarContainer{
+    width: 95% !important;
+    margin-top: 1rem;
+}
+
+.nav-link{
+    color: white;
+}
+
+
+
+.collapse-menu2 li a{
+    color: #fff;
+    text-decoration: none;
+}
+.collapse-menu2 ul{
+    list-style: none;
+}
+.collapse-menu2 li{
+    display: inline-block;
+    margin-right: 1rem;
+}
+.collapse{
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+
+.teamTitle{
+    padding: 5rem 0;
+}
+
+.leftMenu ul{
+    list-style: none;
+}
+
+.leftMenu ul li{
+    margin-top: .5rem;
+}
+.leftMenu ul li a{
+    text-decoration: none;
+    color: gray;
+    font-weight: bold;
+    transition: .35s;
+}
+
+.leftMenu ul li a:hover{
+    color: #990033;
+}
+
+.leftMenu ul li:first-child a{
+    color: #990033;
+}
+
+.search input,select{
+    width: 100%;
+    height: 2.5rem;
+    margin-top: 1rem;
+    border: none;
+    border-bottom: 1px solid gray;
+}
+
+.searchBtn{
+    background: none;
+    border: none;
+    border-bottom: 1px solid rgb(43, 41, 54);
+    padding: .3rem .8rem;
+}
+
+.searchBtn:hover{
+    background-color: rgb(43, 41, 54);
+    color: white;
+}
+
+.alfabe span a{
+    text-decoration: none;
+    color: black;
+}
+
+.teamCard img{
+    filter: grayscale(1);
+}
+
+.teamCard:hover img{
+    filter: grayscale(0);
+}
+.sectionConteiner{
+    width: 50%;
+}
+
+
+
+
+
+
+
+/**********footer************/
+
+.footer{
+    padding: 3rem;
+    background-color: rgb(5, 4, 17);
+    color: #fff;
+}
+.footerConteiner{
+    width: 75% !important; 
+}
+.footer ul{
+    list-style: none;
+}
+.footer ul li{
+    padding-top: .5rem;
+    font-size: 12px;
+}
+.footer ul li a{
+    text-decoration: none;
+    color: #fff;
+}
+.btn{
+    max-width: fit-content;
+}
+.form-control{
+    border-radius: 0;
+    background-color: rgb(5, 4, 17);
+    color: #fff;
+}
+.btn .btn-danger {
+    border-radius: 0;
+    background-color: rgb(5, 4, 17);
+    border-color: #fff;
+}
+.btn-danger:hover{
+    background-color:  white;
+    color: rgb(5, 4, 17);
+}
