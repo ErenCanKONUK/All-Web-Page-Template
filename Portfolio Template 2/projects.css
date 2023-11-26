@@ -1,0 +1,104 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    /* background: linear-gradient(to right bottom, #7f5b7f, #772777); */
+    background-color: rgb(210, 193, 193);  
+}
+header {  
+
+    background-color:white;  
+    position: fixed; 
+    justify-content: center;
+    margin: 0px; 
+    padding: 0px;
+    left: 0;  
+    right: 0;  
+    top: 0px;  
+    height: 40px;  
+    display: flex;  
+    align-items: center;  
+    box-shadow: 0 0 0 0 black; 
+    }  
+    header * {  
+      font-size: 20px;
+      font-weight: 400;
+    display: inline;  
+    }  
+    header li {  
+    margin: 20px;  
+    }  
+    header li a {  
+    color: #6e4b6e;  
+    text-decoration: none;  
+    }  
+
+    .geartitle {
+        margin-top: 70px;
+        font-size: 22px;
+        text-align: center;
+    }
+    .container1 {
+        margin-top: 0px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    h2 {
+        padding: 10px;
+        font-size: 20px;
+    }
+
+    p {
+        padding: 10px;
+        font-size: 14px;
+    }
+
+    .card {
+        background: #e50be5;
+        background: linear-gradient(to right bottom, #fff0ff, #fccefc);
+        width: 250px;
+        height: 500px;
+    border-radius: 25px 45px ;
+        margin: 10px;
+    }
+    
+    .card-image {
+        background-color: aquamarine;
+        border-radius: 20px 40px;
+        height: 250px;
+        margin: 0px;
+    }
+    footer {
+        bottom: 2;
+        height: 40px;
+        margin-top: 30px;
+        text-align: center;
+        vertical-align: middle;
+    }
+
+    .card1 {
+        background-image: url(https://cms.vodafone.com.tr/static/img/content/22-08/04/1024x683-4.jpg);
+   background-size:contain;
+    }
+
+    .card2 {
+        background-image: url(https://helios-i.mashable.com/imagery/articles/036SM7saRgnSGmvT3XNLYXQ/hero-image.fill.size_1248x702.v1623372406.jpg);
+   background-size: cover;
+    }
+
+    .card3 {
+        background-image: url(https://99designs-blog.imgix.net/blog/wp-content/uploads/2022/01/104228210.jpg?auto=format&q=60&fit=max&w=930);
+   background-size: cover;
+    }
+
+    .card a {
+        background-color: black;
+        color: white;
+        padding: 10px;
+        display: block;
+        text-align: center;
+        margin: 20px 50px;
+    }
