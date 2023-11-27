@@ -1,6 +1,6 @@
 # Dijital Ajans - Sosyal Medya Ajansı - Yazılım Firması gibi kurumsal firmalara uyarlanabilir bir template'dir.
 
-- Kodların tamamına ulaşmak için : www.erencankonuk.com
+- Kaynak kod için veya kendi firmanıza uyarlanması için " www.erencankonuk.com " ' dan ulaşabilirsiniz
 
 # Ekran Görüntüleri :
 
