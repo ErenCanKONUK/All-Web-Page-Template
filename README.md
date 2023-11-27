@@ -3,3 +3,6 @@
 - Html , Css , Bootstrap , Javascript ve frameworkleri ile hazırlanan template çalışmalarından oluşmaktadır.
 
 - Tüm template çalışmaları tek bir repoda toplanmıştır.
+
+- Tüm template'ler responsive tasarımdır.
+
