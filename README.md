@@ -6,4 +6,5 @@
 
 - Tüm template'ler responsive tasarımdır.
 
-![Adsız](https://github.com/ErenCanKONUK/All-Web-Page-Template/assets/97176491/4b5c0af1-fb38-4a3b-942f-4532e9c62d70)
+
+![Web Template](https://github.com/ErenCanKONUK/All-Web-Page-Template/assets/97176491/31276db8-2af6-4e1e-a479-3af5e3286673)
