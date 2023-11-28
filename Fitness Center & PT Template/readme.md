@@ -7,7 +7,9 @@
 - Dilerseniz kendi işletmeniz için uyarlayabilirsiniz yada dilerseniz ben size destek sağlayabilirim.
 
 - %100 Responsive Uyumlu
-  
+
+- Metinleri ChatGpt yardımı ile yazıldı.
+    
 # Ekran Görüntüsü :
 
 # Ana Sayfa :
