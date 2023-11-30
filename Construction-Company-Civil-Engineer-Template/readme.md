@@ -10,7 +10,17 @@
 
 - 3 Adet slider mevcuttur. 
 
+- Slider 1
+
 ![image](https://github.com/ErenCanKONUK/All-Web-Page-Template/assets/97176491/05cb462d-730a-4bb3-b60d-fd3ad3b4b4fa)
+
+- Slider 2
+
+![image](https://github.com/ErenCanKONUK/All-Web-Page-Template/assets/97176491/a9883743-6f7f-42df-8841-3b971ccf8dc3)
+
+- Slider 3
+
+![image](https://github.com/ErenCanKONUK/All-Web-Page-Template/assets/97176491/0e37237e-2c65-4171-b6a7-a537a3d4ade0)
 
 # Firma Hakkında Özet :
 
