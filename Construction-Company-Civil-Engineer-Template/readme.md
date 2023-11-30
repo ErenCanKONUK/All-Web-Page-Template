@@ -91,3 +91,16 @@ Bir çok kurumsal firma için kesinlikle gerekli olan bölümdür.
 # Footer :
 
 ![image](https://github.com/ErenCanKONUK/All-Web-Page-Template/assets/97176491/ba5dd260-0bc7-4590-9d35-cf6224b34cbc)
+
+# Butonlar :
+
+# Yukarı Ok :
+
+Sağ alt kısımda bulunan " Yukarı Ok " tuşuna bastığımızda yavaş bir şekilde en yukarıya doğru çıkar.
+
+![image](https://github.com/ErenCanKONUK/All-Web-Page-Template/assets/97176491/7e4afa3c-81f4-4cb8-965d-f74d422403c4)
+
+Üstüne Ok İle Geldiğinizde Rengi Değişir.
+
+![image](https://github.com/ErenCanKONUK/All-Web-Page-Template/assets/97176491/999e952a-aae7-4923-8a5d-4084cbc51581)
+
