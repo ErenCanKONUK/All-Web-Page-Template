@@ -10,7 +10,11 @@
 Ana sayfada 3 adet slider sizi karşılamaktadır. 
 Otel tesisi , konumu ve odaların resimleri eklenebilir. Kısa 2 3 cümlelik açıklamalar için uygundur.
 
+- Navbar :
+  
 ![image](https://github.com/ErenCanKONUK/All-Web-Page-Template/assets/97176491/c1d1423b-725c-4168-b221-ecb8a4e85719)
+
+- Devamı
 
 ![image](https://github.com/ErenCanKONUK/All-Web-Page-Template/assets/97176491/24cc914d-1d58-47b1-bd90-7f3e95bd3cc3)
 
