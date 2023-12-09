@@ -39,3 +39,19 @@ Hukuk Büroları veya Bireysel çalışan hukukçular içinde uygundur.
 - Footer Kısmı ve Yukarı Çıkma Butonu :
 
 ![image](https://github.com/ErenCanKONUK/All-Web-Page-Template/assets/97176491/72ae2151-6683-4164-a5d9-deb1a703518f)
+
+# Responsive :
+
+![image](https://github.com/ErenCanKONUK/All-Web-Page-Template/assets/97176491/4ecbf24d-9679-4c00-a525-439a141d25f4)
+
+![image](https://github.com/ErenCanKONUK/All-Web-Page-Template/assets/97176491/83da0ccc-7098-4a43-b269-4c5abe2bfb59)
+
+![image](https://github.com/ErenCanKONUK/All-Web-Page-Template/assets/97176491/705bcefc-c27f-411d-b386-97e7f16cc64c)
+
+- Tablet Görünümü :
+
+![image](https://github.com/ErenCanKONUK/All-Web-Page-Template/assets/97176491/02fdafe7-e21a-4b7b-845e-d9a9044220b3)
+
+![image](https://github.com/ErenCanKONUK/All-Web-Page-Template/assets/97176491/14fe8de9-54f6-42ae-9450-7c2c6b091afb)
+
+![image](https://github.com/ErenCanKONUK/All-Web-Page-Template/assets/97176491/c0577a6a-75de-410b-b0cf-bf9944b844cc)
