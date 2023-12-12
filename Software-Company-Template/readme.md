@@ -1,6 +1,7 @@
 # Software-Company-Template
 - Yazılım firmaları , dijital ajanslar , medya kuruluşları online eğitim ve yazılım firmaları için birebir uyumlu özelleştirilebilir ve % 100 Responsive Tasarıma sahip bir temadır.
-- Site İçeriği :
+- HTML , CSS , Bootstrap , Js kullanıldı.
+# Site İçeriği :
 - Anasayfa :
 - 3 Adet Açıklama ve Butonlu Slider
 - Ardından Hakkımızda bölümü
